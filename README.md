@@ -1,5 +1,6 @@
 # spicetify-script-autosetup
 Install auto and easely spicetify
+
 Bonjour,
 Voici un petit excutable pour avoir acces a spicetify ! (automatisation installation et télchargment)
 
