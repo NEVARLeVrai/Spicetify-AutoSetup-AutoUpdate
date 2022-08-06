@@ -33,5 +33,3 @@ Spotify, every now and then, updates its client. Since we have no power over thi
 However, the update might have major changes to the client, which means you will need to run "spicetify upgrade" every time you update Spotify. If no update for Spicetify is available, it means that it either still works by simply running "spicetify backup apply", or that we are still working on updating Spicetify to work on the new version.
 
 After running "spicetify upgrade", you will be prompted to run "spicetify restore backup" apply to have everything back where it was (commands in powershell)
-
----------------------------------------------
