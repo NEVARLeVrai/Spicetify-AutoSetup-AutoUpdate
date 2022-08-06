@@ -1,6 +1,6 @@
 # Spicetify AutoSetup & AutoUpdate
 
-Install auto and easely spicetify
+Install auto and update easely spicetify
 ---------------------------------------------
 
 Hello,
