@@ -21,6 +21,7 @@ https://spicetify.app/docs/getting-started
 
 ---------------------------------------------
 if u wont reinstall it do this
+
 Updating
 Spotify, every now and then, updates its client. Since we have no power over this process, you will likely need to re-apply Spicetify.
 
