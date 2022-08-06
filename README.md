@@ -21,7 +21,7 @@ And thanks to SPICETIFY
 https://spicetify.app/docs/getting-started
 
 
-My script all time Reinstall and update ! Your settings will be not lost after that
+My script will do all time Reinstall and update ! Your settings will be not lost after that
 ---------------------------------------------
 
 if youwont reinstall it do this (so just launch 1 time my script, but for updates it's up to you to do manually)
