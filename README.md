@@ -20,10 +20,12 @@ https://discord.gg/vUvn7JZ7Sy
 And thanks to SPICETIFY
 https://spicetify.app/docs/getting-started
 
+---------------------------------------------
 My script all time Reinstall and update ! Your settings will be not lost after that
 ---------------------------------------------
-if u wont reinstall it do this (so just launch 1 time my script, but for updates it's up to you to do manually)
 
+if youwont reinstall it do this (so just launch 1 time my script, but for updates it's up to you to do manually)
+---------------------------------------------
 Updating
 Spotify, every now and then, updates its client. Since we have no power over this process, you will likely need to re-apply Spicetify.
 
