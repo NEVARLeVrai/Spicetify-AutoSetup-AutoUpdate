@@ -1,8 +1,8 @@
 # Spicetify AutoSetup & AutoUpdate
 
 Install auto and easely spicetify
-
 ---------------------------------------------
+
 Hello,
 Here is a small executable to have access to spicetify! (automation installation and download)
 
