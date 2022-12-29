@@ -15,7 +15,7 @@ echo "set-executionpolicy RemoteSigned" before in a elevated powershell the firs
 echo.
 echo ------------------------------------------------- ---------------------------------------------
 echo Setup in progress please wait...
-echo V.1.0.1s
+echo V.1.0.2s
 echo Thanks to SPICEFITY
 echo ---------------------------------------------------------------------------------------------
 echo.
