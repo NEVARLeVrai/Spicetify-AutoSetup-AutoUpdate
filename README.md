@@ -33,3 +33,5 @@ And thanks to SPICETIFY
 https://spicetify.app/docs/getting-started
 
 edited 29/12/22
+
+Spicetify is autoupdated with my program
