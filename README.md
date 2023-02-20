@@ -65,11 +65,31 @@ Et merci à SPICETIFY
 https://spicetify.app/docs/getting-started
 
 ---------------------------
-
 Mise à jour manuelle
+---
 
-Spotify, de temps en temps, met à jour son client.  Comme nous n'avons aucun pouvoir sur ce processus, vous devrez probablement réappliquer Spicetify.
-Cependant, la mise à jour peut apporter des modifications majeures au client, ce qui signifie que vous devrez exécuter la mise à niveau de Spicetify chaque fois que vous mettez à jour Spotify.  Si aucune mise à jour pour Spicetify n'est disponible, cela signifie soit qu'elle fonctionne toujours en exécutant simplement l'application de sauvegarde de Spicetify, soit que nous travaillons toujours sur la mise à jour de Spicetify pour qu'elle fonctionne sur la nouvelle version.
+Spotify, de temps en temps, met à jour son client. Comme nous n'avons aucun pouvoir sur ce processus, vous devrez probablement réappliquer Spicetify.
+Cependant, la mise à jour peut apporter des modifications majeures au client, ce qui signifie que vous devrez exécuter la mise à niveau de Spicetify chaque fois que vous mettez à jour Spotify. Si aucune mise à jour pour Spicetify n'est disponible, cela signifie soit qu'elle fonctionne toujours en exécutant simplement l'application de sauvegarde de Spicetify, soit que nous travaillons toujours sur la mise à jour de Spicetify pour qu'elle fonctionne sur la nouvelle version.
 Après avoir exécuté la mise à niveau de spicetify, vous serez invité à exécuter l'application de sauvegarde de restauration de spicetify pour que tout revienne là où il se trouvait.
+
+---------------------------
+
+Mon script fera tout le temps Réinstaller et mettre à jour ! Vos paramètres ne seront pas perdus après cela
+---
+si vous ne le réinstallez pas faites ceci (donc il suffit de lancer 1 fois mon script, mais pour les mises à jour c'est à vous de le faire manuellement)
+---
+Il s'agit d'un problème assez courant et très facile à résoudre :
+---
+
+1. Vérifiez d'abord si votre spicetify fonctionne toujours normalement en appliquant manuellement après chaque redémarrage.
+
+2. Si c'est le cas, trouvez votre raccourci Spotify que vous utilisez le plus souvent (cela peut être sur votre barre des tâches, votre menu Démarrer ou votre bureau, tant qu'il s'agit d'un fichier .lnk) Vous devrez faire un clic droit sur ce raccourci et appuyer sur Propriétés, à l'intérieur de la zone de texte "cible", appuyez sur ctrl + a puis supprimez. Remplacez le texte maintenant supprimé par "spicetify auto".
+
+3. Si vous avez configuré Spotify pour qu'il s'exécute au démarrage, accédez à cette entrée dans regedit : HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run, recherchez la clé "spotify" et modifiez sa valeur pour indiquer "spicetify auto" également.
+
+4. Si ce n'est pas le cas, diagnostiquez pourquoi votre Spicetify
+n'est pas appliqué du tout, souvent une nouvelle installation résoudra ces problèmes.
+
+Remarques >> Il peut y avoir une cause profonde à cela, mais c'est la solution la plus simple et la plus simple.
 
 ---------------------------
