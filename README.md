@@ -1,4 +1,5 @@
 Bonjour,
+
 Voici un petit exécutable pour avoir accès a spicetify ! (Automatisation installation et téléchargement) tout d'abord exécute un PowerShell en admin et entre la commande :
 set-executionpolicy RemoteSigned
 
@@ -21,6 +22,7 @@ Après avoir exécuté la mise à niveau de spicetify, vous serez invité à ex�
 
 ------------- 
 Hello,
+
 Here is a small executable to access spicetify! (Automation installation and download) first run a PowerShell in admin and enter the command:
 set-executionpolicy RemoteSigned
 
