@@ -1,0 +1,27 @@
+v0.1b
+Optimization
+
+v0.2b
+updated script
+silence script
+script is fast now
+
+v0.3b
+color cmd changed to red
+Fench to english 
+
+v0.3.1s
+adding helps info
+
+V.1.0.0s
+redesign of the bat
+running powershell script in bat now
+optimization
+adding more helping info if script dosent work
+
+V.1.0.1s
+optimization
+
+V.1.0.2s
+optimization
+you can put the folder where you want now but files need to be in the "Files" folder !
