@@ -34,16 +34,6 @@ My script will do all time Reinstall and update ! Your settings will be not lost
 if you wont reinstall it do this (so just launch 1 time my script, but for updates it's up to you to do manually)
 ---
 
-Updating
-Spotify, every now and then, updates its client. Since we have no power over this process, you will likely need to re-apply Spicetify.
-
-However, the update might have major changes to the client, which means you will need to run "spicetify upgrade" every time you update Spotify. If no update for Spicetify is available, it means that it either still works by simply running "spicetify backup apply", or that we are still working on updating Spicetify to work on the new version.
-
-After running "spicetify upgrade", you will be prompted to run "spicetify restore backup" apply to have everything back where it was (commands in powershell)
-
-
-Spicetify isn't auto inject at startup
-
 ---------------------------
 This is a pretty common issue and a very easy to fix one:
 ---
