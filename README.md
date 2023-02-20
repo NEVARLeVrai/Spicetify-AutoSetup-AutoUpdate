@@ -45,8 +45,6 @@ This is a pretty common issue and a very easy to fix one:
 4. If not then diagnose why your spicetify
 isnt being applied at all, often a fresh install will fix said issues.
 
-Notes >> There may be a root cause to this however this is the easiest and most seemeless fix.
-
 ---------------------------
 
 Bonjour,
@@ -89,7 +87,5 @@ Il s'agit d'un problème assez courant et très facile à résoudre :
 
 4. Si ce n'est pas le cas, diagnostiquez pourquoi votre Spicetify
 n'est pas appliqué du tout, souvent une nouvelle installation résoudra ces problèmes.
-
-Remarques >> Il peut y avoir une cause profonde à cela, mais c'est la solution la plus simple et la plus simple.
 
 ---------------------------
