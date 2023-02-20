@@ -29,10 +29,8 @@ After running spicetify upgrade, you will be prompted to run spicetify restore b
 
 ---------------------------
 
-My script will do all time Reinstall and update ! Your settings will be not lost after that
----
-if you wont reinstall it do this (so just launch 1 time my script, but for updates it's up to you to do manually)
----
+My script will do all time Reinstall and update ! Your settings will be not lost after that.
+If you wont reinstall it do this (so just launch 1 time my script, but for updates it's up to you to do manually)
 This is a pretty common issue and a very easy to fix one:
 ---
 
@@ -72,10 +70,8 @@ Après avoir exécuté la mise à niveau de spicetify, vous serez invité à ex�
 
 ---------------------------
 
-Mon script fera tout le temps Réinstaller et mettre à jour ! Vos paramètres ne seront pas perdus après cela
----
-si vous ne le réinstallez pas faites ceci (donc il suffit de lancer 1 fois mon script, mais pour les mises à jour c'est à vous de le faire manuellement)
----
+Mon script fera tout le temps Réinstaller et mettre à jour ! Vos paramètres ne seront pas perdus après cela.
+Si vous ne le réinstallez pas faites ceci (donc il suffit de lancer 1 fois mon script, mais pour les mises à jour c'est à vous de le faire manuellement).
 Il s'agit d'un problème assez courant et très facile à résoudre :
 ---
 
