@@ -2,6 +2,7 @@ Spicetify AutoSetup & AutoUpdate
 ---
 
 ---------------------------
+
 Hello,
 
 Here is a small executable to access spicetify! (Automation installation and download) first run a PowerShell in admin and enter the command:
@@ -18,6 +19,7 @@ And thanks to SPICETIFY
 https://spicetify.app/docs/getting-started
 
 ---------------------------
+
 Updating manually
 
 Spotify, every now and then, updates its client. Since we have no power over this process, you will likely need to re-apply Spicetify.
@@ -42,6 +44,7 @@ Et merci à SPICETIFY
 https://spicetify.app/docs/getting-started
 
 ---------------------------
+
 Mise à jour manuelle
 
 Spotify, de temps en temps, met à jour son client.  Comme nous n'avons aucun pouvoir sur ce processus, vous devrez probablement réappliquer Spicetify.
