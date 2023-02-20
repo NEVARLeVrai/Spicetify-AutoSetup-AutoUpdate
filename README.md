@@ -33,8 +33,6 @@ My script will do all time Reinstall and update ! Your settings will be not lost
 ---
 if you wont reinstall it do this (so just launch 1 time my script, but for updates it's up to you to do manually)
 ---
-
----------------------------
 This is a pretty common issue and a very easy to fix one:
 ---
 
