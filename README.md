@@ -1,17 +1,15 @@
 Bonjour,
-Voici un petit excutable pour avoir acces a spicetify ! (automatisation installation et télchargment)
-
-tout d'abord ecute un powershell en admin et entre la commande :
+Voici un petit exécutable pour avoir accès a spicetify ! (Automatisation installation et téléchargement) tout d'abord exécute un PowerShell en admin et entre la commande :
 set-executionpolicy RemoteSigned
 
-une fois excuter tu peux fermer le poweshell et lancer le raccourcis "Spicetify AutoSetup" pense à avoir spotify ouvert et connecté à ton compte sinon ça ne marche
-si tu veux qu'il ce lance au démarrage de ton ordinateur mett le raccourcis dans le dossier shell:startup
+Une fois exécuter tu peux fermer le PowerShell et lancer le raccourcis "Spicetify AutoSetup" pense à avoir Spotify ouvert et connecté à ton compte sinon ça ne marche
+si tu veux qu'il se lance au démarrage de ton ordinateur mettre le raccourcis dans le dossier shell:startup
 
-pour tout aide ou problème contact sur discord 
+Pour tout aide ou problème contact sur discord 
 Discord id 745923070736465940
 https://discord.gg/vUvn7JZ7Sy
 
-Et merci a SPICETIFY
+Et merci à SPICETIFY
 https://spicetify.app/docs/getting-started
 
 -------------
@@ -22,26 +20,19 @@ Cependant, la mise à jour peut apporter des modifications majeures au client, c
 Après avoir exécuté la mise à niveau de spicetify, vous serez invité à exécuter l'application de sauvegarde de restauration de spicetify pour que tout revienne là où il se trouvait.
 
 ------------- 
-
 Hello,
-Here is a small executable to have access to spicetify! (automation installation and download)
-
-first run a powershell as admin and enter the command:
+Here is a small executable to access spicetify! (Automation installation and download) first run a PowerShell in admin and enter the command:
 set-executionpolicy RemoteSigned
 
-once run you can close the poweshell and launch the shortcut "Spicetify AutoSetup" remember to have spotify open and connected to your account otherwise it does not work
-if you want it to launch when you start your computer put the shortcut in the shell:startup folder
+Once executed, you can close the PowerShell and launch the shortcuts "Spicetify AutoSetup" remember to have Spotify open and connected to your account otherwise it does not work
+if you want it to start when you start your computer put the shortcuts in the shell:startup folder
 
-for any help or problem contact on discord
-discord id 745923070736465940
+For any help or problem contact on discord
+Discord ID 745923070736465940
 https://discord.gg/vUvn7JZ7Sy
 
 And thanks to SPICETIFY
 https://spicetify.app/docs/getting-started
-
-edited 29/12/22
-
-Spicetify is autoupdated with my program
 
 ---------------------------
 Updating manually
