@@ -70,7 +70,7 @@ Après avoir exécuté la mise à niveau de spicetify, vous serez invité à ex�
 
 ---------------------------
 
-Mon script fera tout le temps Réinstaller et mettre à jour ! Vos paramètres ne seront pas perdus après cela.
+Mon script ferra tout le temps Réinstaller et mettre à jour ! Vos paramètres ne seront pas perdus après cela.
 Si vous ne le réinstallez pas faites ceci (donc il suffit de lancer 1 fois mon script, mais pour les mises à jour c'est à vous de le faire manuellement).
 Il s'agit d'un problème assez courant et très facile à résoudre :
 ---
